@@ -19,7 +19,7 @@
     "core-js": "^3.9.1",
     "hagame": "^1.0.3",
     "hcore": "^1.0.7",
-    "highcharts": "^8.2.2",
+    "highcharts": "^9.0.0",
     "highcharts-vue": "^1.3.5",
     "highlight.js": "^10.7.1",
     "jquery": "^3.6.0",
